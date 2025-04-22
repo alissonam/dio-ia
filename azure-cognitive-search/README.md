@@ -1,4 +1,4 @@
-# 🚀 Azure Cognitive Search: Pesquisa Inteligente de Atendimentos
+# 🚀 Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
 
 Este projeto foi desenvolvido como parte do desafio **"Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados"** oferecido pela **DIO (Digital Innovation One)**. O objetivo é aplicar conceitos de mineração de conhecimento, enriquecimento com IA e indexação inteligente de documentos utilizando os serviços do Microsoft Azure.
 
