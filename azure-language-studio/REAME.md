@@ -55,6 +55,7 @@ Passo a passo:
 Com **Speech-to-Text**, é possível enviar arquivos de áudio (ou usar microfone em tempo real) e obter a transcrição.
 
 Características:
+
 - Pontuação automática;
 - Divisão por frases;
 - Detecção de idioma;
@@ -80,6 +81,7 @@ Características:
 ## 🧪 Language Studio - Sentiment and Opinion Mining Tryout
 
 O **Language Studio** permite testar os serviços de linguagem da Microsoft de forma interativa, como:
+
 - Análise de sentimentos;
 - Extração de opiniões específicas;
 - Identificação de entidades e frases-chave.
@@ -102,7 +104,7 @@ O **Language Studio** permite testar os serviços de linguagem da Microsoft de f
   "confidenceScores": {
     "positive": 0.45,
     "neutral": 0.05,
-    "negative": 0.50
+    "negative": 0.5
   },
   "sentences": [
     {
@@ -137,9 +139,12 @@ O **Language Studio** permite testar os serviços de linguagem da Microsoft de f
 ```
 
 ### 📝 Interpretação Rápida:
+
     Sentimento Geral: Misto (45% positivo / 50% negativo).
 
     Opiniões específicas:
         - Atendimento ao cliente → positivo (excelente);
         - Entrega → negativo (demorou muito);
         - Produto → negativo (chegou danificado).
+
+---
